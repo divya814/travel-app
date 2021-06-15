@@ -1,0 +1,17 @@
+.nav-heading{
+    background: linear-gradient(to right, #538FFB, #5737D6);
+    
+}
+.text-white{
+    margin: 15px;
+    text-decoration: none;
+}
+
+.btn-right{
+    position: relative;
+    right: 0;
+}
+button{
+    margin-right: 16px;
+    padding: 0;
+}
