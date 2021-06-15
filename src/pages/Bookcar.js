@@ -1,6 +1,7 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import Footer from '../layout/Footer';
 
 function Bookcar() {
   
@@ -46,6 +47,7 @@ function Bookcar() {
           </ul>
         </div>
       </div>
+    <Footer />   
     </div>
   );
 }
