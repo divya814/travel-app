@@ -6,7 +6,7 @@ import Footer from '../layout/Footer';
 function Bookcar() {
   
   return (
-    
+    <>
     <div className='cards'>
       <h1>Book your Car!</h1>
       <div className='cards__container'>
@@ -49,6 +49,8 @@ function Bookcar() {
       </div>
 
     </div>
+    <Footer/>
+    </>
   );
 }
 
