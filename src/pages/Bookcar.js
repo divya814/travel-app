@@ -47,7 +47,7 @@ function Bookcar() {
           </ul>
         </div>
       </div>
-    <Footer />   
+
     </div>
   );
 }
